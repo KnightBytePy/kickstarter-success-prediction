@@ -2,7 +2,7 @@
 
 **Author:** Fares Jony  
 **Date:** 2025-12-06  
-
+**Data: ** https://webrobots.io/kickstarter-datasets/ - I downloaded the csv zip which has 80+ kickstarter CSVs
 ---
 
 ## 🔹 Project Overview
