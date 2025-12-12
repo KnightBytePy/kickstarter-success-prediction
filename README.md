@@ -1,6 +1,6 @@
 # 🚀 Kickstarter Success Prediction & Clustering
 
-**Data: ** https://webrobots.io/kickstarter-datasets/ - I downloaded the csv zip which has 80+ kickstarter CSVs
+**Data: ** https://webrobots.io/kickstarter-datasets/ - I downloaded the csv zip which has 80+ kickstarter CSVs then looped 
 ---
 
 ## 🔹 Project Overview
