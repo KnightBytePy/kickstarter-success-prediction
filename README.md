@@ -1,6 +1,5 @@
 # 🚀 Kickstarter Success Prediction & Clustering
 
-**Author:** Fares  
 **Data: ** https://webrobots.io/kickstarter-datasets/ - I downloaded the csv zip which has 80+ kickstarter CSVs
 ---
 
