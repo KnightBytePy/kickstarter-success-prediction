@@ -1,6 +1,6 @@
 # 🚀 Kickstarter Success Prediction & Clustering
 
-**Author:** Fares Jony  
+**Author:** Fares  
 **Date:** 2025-12-06  
 **Data: ** https://webrobots.io/kickstarter-datasets/ - I downloaded the csv zip which has 80+ kickstarter CSVs
 ---
