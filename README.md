@@ -46,15 +46,3 @@ Predict whether a Kickstarter project will **succeed or fail** using only launch
 
 **Business Impact:** Helps creators and Kickstarter optimize campaign setup, funding goals, and promotion strategies before launch.  
 
----
-
-## 🚀 Usage
-```bash
-# Clone repo
-git clone https://github.com/yourusername/kickstarter-success-prediction.git
-
-# Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn
-
-# Run analysis
-python kickstarter_analysis.py
